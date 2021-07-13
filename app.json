@@ -17,15 +17,15 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "1273127"
+      "value": "6945535"
     } ,
     "SUDO_USERS": {
       "description": "Sudo Users IDs",
-      "value": "1562091466 1690949100"
+      "value": "1593061954"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "2626aee4ea587947c6a703f1a0d6a3cc"
+      "value": "3d4e472e99774ff3586ed43288c339ec"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
@@ -55,12 +55,12 @@
     },
     "HEROKU_API_KEY": {
       "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
-      "value": "b978e3f0-1deb-4797-9e4f-630fae9f78b3",
+      "value": "cefb187d-8a1e-4dfa-a92f-9146e7fa65e4",
       "required": false
     },
     "HEROKU_APP_NAME": {
       "description": "YOUR app name ",
-      "value": "YukkiSpamBot",
+      "value": "monster",
       "required": false
     },
     "TZ": {
